@@ -9,3 +9,8 @@
 - Emotion Model is a `MobileNet_V2_224_1.4` model trained on [AffectNet](http://mohammadmahoor.com/affectnet) Dataset containing 1m facial images and 11 classes of emotion
 - Both model are trained using tensorflow and then the trained graph is converted into Tensorflow Lite for serving.
 - We use MobileVision API for facial landmark detection.
+
+## APP Home Screen
+<p align="center">
+  <img src="front.png" width="200" height="300" title="Home Screen">
+</p>
