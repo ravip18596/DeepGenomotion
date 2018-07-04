@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DeepGenomotion</string>
+    <string name="take_picture">PICTURE</string>
+    <string name="switch_camera">SWITCH</string>
+    <string name="record_video">VIDEO</string>
+    <string name="stop_video">STOP</string>
+    <string name="emotion">Emotion</string>
+    <string name="gender">Gender</string>
+    <string name="camera_error">Camera Error</string>
+</resources>
